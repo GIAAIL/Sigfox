@@ -6,9 +6,9 @@ Links:
   * Activation: https://github.com/UnaBiz/unabiz-arduino/wiki/Activation
 
 ## Setup
-<p align="center"><a href="./images/unashield0.jpg" width="75%" /></p>
+<p align="center"><a href="./images/unashield0.jpg" width="75%"></p>
 
-<p align="center"><a href="./images/unashield1.jpg" width="75%" /></p>
+<p align="center"><a href="./images/unashield1.jpg" width="75%"></p>
 
 ## Register UnaShield V2S
 
