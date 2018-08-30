@@ -7,8 +7,7 @@ UnaBiz Taiwan sponsored NCTU with its Dev Kits (UnaShield) to boost academic res
 Links:
 * [UnaShield Documentation](https://unabiz.github.io/unashield/)
 * [UnaShield Hardware Guide](https://unabiz.github.io/unashield/hardware.html)
-* [Arduino library for connecting UnaShield to SIGFOX network](https://github.com/UnaBiz/unabiz-arduino)
-  * [Activation](https://github.com/UnaBiz/unabiz-arduino/wiki/Activation)
+* [Arduino library for connecting UnaShield to SIGFOX network](https://github.com/UnaBiz/unabiz-arduino) and [Activation](https://github.com/UnaBiz/unabiz-arduino/wiki/Activation)
 
 ## Unboxing
 
