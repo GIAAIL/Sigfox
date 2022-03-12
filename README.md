@@ -1,8 +1,9 @@
-NCTU Smart Campus Project - Sigfox
+陽明交大智慧校園計畫 - Sigfox 開發平台
+NYCU Smart Campus Project - Sigfox platform
 
 # UnaShield Setup
 
-UnaBiz Taiwan sponsored NCTU with its Dev Kits (UnaShield) to boost academic researches and applications with Sigfox.
+UnaBiz Taiwan sponsored NYCU with its Dev Kits (UnaShield) to support academic researches and applications with Sigfox.
 
 Links:
 * [UnaShield Documentation](https://unabiz.github.io/unashield/)
@@ -15,7 +16,7 @@ You should find your UnaShield in a carton box marked "RCZ4" (Radio Configuratio
 
 <p align="center"><img src="./images/unashield0.jpg" width="75%"></p>
 
-## UnaShield
+## About UnaShield
 
 After unboxing, attaching antenna to your UnaShield. Later on we'll attach it onto the Arduino board. The version of the shields we have is UnaShield V2S.
 
@@ -44,7 +45,7 @@ Brief steps of the activation process:
 
 ## Attach to Arduino
 
-Now it's time to attach your UnaShield to Arduino. Please note that UnaShield works best with **Arduino Uno**. It is not compatible with all variants of Arduino boards due to different pin definitions.
+Please note that UnaShield works best with **Arduino Uno**. It is not compatible with all variants of Arduino boards due to different pin definitions.
 
 <p align="center"><img src="./images/unashield2.jpg" width="75%"></p>
 
