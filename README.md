@@ -2,6 +2,9 @@
 
 NYCU Smart Campus Project - Sigfox platform
 
+Tech Contact: 優納比 UnaBiz 劉先生 0968692954
+for NYCU Base Station & Dev kits
+
 # UnaShield Setup
 
 UnaBiz Taiwan sponsored NYCU with its Dev Kits (UnaShield) to support academic researches and applications with Sigfox.
